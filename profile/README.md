@@ -13,7 +13,7 @@
 
 ## Kernel
 
-The kernel is built using [Assembly x86](https://www.nasm.us/) while the OS is built in **Rust**. 
+The kernel is built using **C++** including the OS.
 
 ## License
 We are licensed under the [Affero General Public Use License v3.0](https://choosealicense.com/licenses/agpl-3.0/), check [License](LICENSE) to view details.
