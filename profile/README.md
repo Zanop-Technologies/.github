@@ -16,4 +16,4 @@
 The kernel is built using **C++** including the OS.
 
 ## License
-We are licensed under the PolyForm Shield License, check [License](LICENSE) to view details.
+We are licensed under the AGPL v3, check [License](LICENSE) to view details.
