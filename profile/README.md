@@ -7,7 +7,7 @@
 ## Roadmap
 | OSes to be Developed | Expected Date of Release | Actual Release Date |
 |-------------|----------|---------|
-| Zanop Desktop OS | `November 26, 2027/2028` | N/A |
+| Zanop Desktop OS | `November 26, 2027/2028` | `October 4, 2026` |
 | Zanop Mobile OS | `Feburary 15, 2028` | N/A
 | Zanop Television OS | `March 12 2027` | N/A
 
