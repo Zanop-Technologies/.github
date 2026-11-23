@@ -22,6 +22,7 @@ The kernel is built using **C++** including the OS.
 - Ezraieel
 - Grenvill
 - Morimura Din
+- The Assuming Guy
 
 ## License
 We are licensed under the AGPL v3, check [License](LICENSE) to view details.
