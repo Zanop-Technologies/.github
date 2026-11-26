@@ -1,5 +1,8 @@
 # Zanop Technologies 
 
+> [!IMPORTANT]
+> For all future paycheck/mercenary devs trying to be part of the team: Zanop Technologies is not a company. We are a global volunteer collective building an AGPL OS. There is no payroll, no budget, and no salaries — ever. Join for the legacy, not the paycheck.
+> 
 ## About Zanop Technologies 
 > Zanop Technologies (or better known as Zanop OS Technologies) was founded in the year of 2022. It was supposed to be planned as a fictional operating system project.
 
