@@ -22,7 +22,8 @@ The kernel is built using **C++** including the OS.
 - Grenvill
 - Morimura Din
 - Hashes
-
+- Daniel (Seto Yaki)
+  
 ## Completed Things
 - [x] → Get the Kernel to Boot
 - [x] → Memory and GDT
