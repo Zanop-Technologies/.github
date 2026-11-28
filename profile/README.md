@@ -33,7 +33,7 @@ The kernel is built using **C++** including the OS.
 - [x] → Interrupts & Keyboard
 - [x] → Shell and User Interface
 - [ ] → FS and Drivers
-- [ ] → User Space & System Calls
+- [X] → User Space & System Calls
 - [ ] → Last Touch: The Release
 ## License
 We are licensed under the AGPL v3, check [License](LICENSE) to view details.
